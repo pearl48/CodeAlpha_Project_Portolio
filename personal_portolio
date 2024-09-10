@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <div id="nav-bar">
+        <nav>
+            <a href class="side-bar" id="about">About</a> <br/>
+            <a href class="side-bar" id="skills">My skills</a> <br/>
+            <a href class="side-bar" id="projects">Projects</a> <br/>
+            <a href class="side-bar" id="contact">Contact</a> <br/>
+        </nav>
+    </div>
+    <div id="content">
+        <i>
+    <pre>
+        HELLO <br/>
+        i'm chisom, <br/>
+        A web developer, <br/>
+             <em>
+                Let's make your imaginary website a reality.
+             </em>
+        </pre>
+        </i>
+    </div>
+    <section id="body">
+    <h2 id="about">About</h2>    
+<p>
+    I had always been intrigued by technologies. how I cloud build a fully fuctioning app to meet your imaginary thoughts, how I cloud express myself through written codes to birth a system that serves humity and meet the demand of various speciications. I'm a web developer evolving into a software engineer. I dedicate myself to my work and the satisfaction gotten from the outcome of building web applications. I'm passionate about technologies and i'm earnerstly working towards my growth whlist enjoying the process.
+</p>
+<h2 id="skills">My Skills</h2>
+<p>
+<ul>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Javascript</li>
+    <li>MySQL</li>
+    <li>React</li>
+    <li>Redux</li>
+</ul>
+</p>
+<h2 id="projects">Projects</h2>
+<p>
+<b>These are the various projects have built, since the cause of my growth process:</b>
+<ul>
+    <li><a href="https://www.freecodecamp.org/certification/fccc5b3145b-5e6f-46cb-be63-c6031ec6a2b7/javascript-algorithms-and-data-structures-v8">Responsive Web Design</a></li>
+    <li><a href="https://www.freecodecamp.org/certification/fccc5b3145b-5e6f-46cb-be63-c6031ec6a2b7/javascript-algorithms-and-data-structures-v8">javascript algorithms and data structures</a></li>
+    <li><a href="https://www.freecodecamp.org/certification/fccc5b3145b-5e6f-46cb-be63-c6031ec6a2b7/front-end-development-libraries">Front End development Libraries</a></li>
+    <li><a href="https://www.freecodecamp.org/certification/fccc5b3145b-5e6f-46cb-be63-c6031ec6a2b7/data-visualization">Data Vizualization</a></li>
+    <li>Relational Database: Ongoing</li>
+    <li>Backend development and ApI: Ongoing</li>
+    <p>
+</ul>
+<h2 id="contact">Contact</h2>
+<p>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/chisom-edeh-795368323/">Linkedin profile</a></li>
+    </ul>
+</p>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
